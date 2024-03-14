@@ -1,0 +1,1 @@
+export const H1 = () => <h1>Proyecto Esteban Rojas</h1>
